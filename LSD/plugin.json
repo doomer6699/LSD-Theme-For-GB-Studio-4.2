@@ -1,0 +1,9 @@
+{
+  "type": "theme",
+  "name": "LSD Theme",
+  "author": "Doomer6699",
+  "description": "LSD theme for GB Studio.",
+  "license": "IHNFI",
+  "version": "0.0.1",
+  "gbsVersion": ">=4.2.0"
+}

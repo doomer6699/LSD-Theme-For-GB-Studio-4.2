@@ -1,0 +1,166 @@
+{
+  "name": "LSD Theme",
+  "type": "light",
+  "typography": {
+    "fontSize": "14px",
+    "menuFontSize": "13px",
+    "toolbarFontSize": "12px"
+  },
+  "colors": {
+    "highlight": "#ff00ff",
+    "highlightText": "#00ffff",
+    "text": "#ff4500",
+    "background": "#fffc00",
+    "secondaryText": "#32cd32",
+    "token": {
+      "variable": "#00ff7f",
+      "character": "#8a2be2",
+      "operator": "#ff1493",
+      "code": "#fffacd",
+      "function": "#00bfff",
+      "constant": "#ffd700"
+    },
+    "toolbar": {
+      "background": "#ff69b4",
+      "border": "#00ff00",
+      "inactiveBackground": "#8fbc8f",
+      "inactiveBorder": "#ffa07a",
+      "textShadow": "#0000ff",
+      "button": {
+        "border": "#ff6347",
+        "borderTop": "#9400d3"
+      }
+    },
+    "button": {
+      "background": "#ff00ff",
+      "border": "#00ffcc",
+      "borderTop": "#ff5733",
+      "activeBackground": "#da70d6",
+      "text": "#000000",
+      "nestedBackground": "#ffbf00",
+      "nestedActiveBackground": "#ffdf00"
+    },
+    "menu": {
+      "background": "#87cefa",
+      "hoverBackground": "#7fff00",
+      "activeBackground": "#ff1493",
+      "divider": "#ba55d3",
+      "boxShadow": "0 0 15px #ff00ff, 0 0 30px #32cd32"
+    },
+    "input": {
+      "background": "#7fffd4",
+      "hoverBackground": "#ffdab9",
+      "activeBackground": "#ff4500",
+      "text": "#000000",
+      "border": "#dda0dd"
+    },
+    "brackets": {
+      "color": "#00fa9a",
+      "hoverBackground": "#ff6347"
+    },
+    "card": {
+      "background": "#f0e68c",
+      "text": "#0000ff",
+      "border": "#ff6347",
+      "divider": "#ff69b4",
+      "boxShadow": "0px 0px 10px 5px #ffff00"
+    },
+    "sidebar": {
+      "background": "#ff7f50",
+      "border": "#00ced1",
+      "well": {
+        "background": "#db7093",
+        "boxShadow": "0px 0px 10px 5px #ffa500",
+        "hoverBackground": "#ff4500"
+      },
+      "header": {
+        "background": "#9400d3",
+        "activeBackground": "#ff1493",
+        "border": "#00ff00",
+        "text": "#ffffff"
+      }
+    },
+    "panel": {
+      "background": "#98fb98",
+      "border": "#ff6347",
+      "divider": "#ffb6c1",
+      "text": "#00008b",
+      "icon": "#ff00ff",
+      "selectedIcon": "#8a2be2",
+      "selectedBackground": "#adff2f",
+      "activeBackground": "#7cfc00",
+      "hoverBackground": "#40e0d0"
+    },
+    "document": {
+      "background": "#ffffe0"
+    },
+    "list": {
+      "selectedBackground": "#ff4500",
+      "activeBackground": "#ff8c00"
+    },
+    "tabs": {
+      "background": "#ffa07a",
+      "selectedBackground": "#ff69b4",
+      "secondaryBackground": "#40e0d0",
+      "border": "#7fff00"
+    },
+    "scripting": {
+      "header": {
+        "text": "#ff4500",
+        "background": "linear-gradient(45deg, #ff00ff, #ff6347, #ffff00)",
+        "nest1Background": "linear-gradient(60deg, #00fa9a, #ba55d3, #7fffd4)",
+        "nest2Background": "linear-gradient(60deg, #ff8c00, #ff1493, #32cd32)",
+        "nest3Background": "linear-gradient(60deg, #ffd700, #00ffff, #adff2f)",
+        "commentBackground": "linear-gradient(60deg, #9400d3, #ff00ff, #ffffe0)"
+      },
+      "tabs": {
+        "background": "#87cefa"
+      },
+      "branch": {
+        "nest1Background": "#7cfc00",
+        "nest2Background": "#ba55d3",
+        "nest3Background": "#ff6347",
+        "nest4Background": "#ff4500"
+      },
+      "form": {
+        "background": "#ff69b4"
+      },
+      "children": {
+        "nest1Border": "#8a2be2",
+        "nest1Text": "#00ff7f",
+        "nest2Border": "#ff4500",
+        "nest2Text": "#ff8c00",
+        "nest3Border": "#00ced1",
+        "nest3Text": "#ffff00",
+        "nest4Border": "#ff6347",
+        "nest4Text": "#00fa9a"
+      },
+      "placeholder": {
+        "background": "#db7093"
+      }
+    },
+    "tracker": {
+      "background": "#ff8c00",
+      "activeBackground": "#00ff00",
+      "border": "#ff00ff",
+      "text": "#000000",
+      "note": "#ffa500",
+      "instrument": "#00ffff",
+      "effectCode": "#ff1493",
+      "effectParam": "#ffd700",
+      "rollCell": {
+        "border": "#8a2be2"
+      }
+    },
+    "prefab": {
+      "background": "#ff4500",
+      "text": "#ffffff",
+      "button": {
+        "background": "#32cd32",
+        "hoverBackground": "#7fff00",
+        "text": "#000000"
+      }
+    }
+  },
+  "borderRadius": 12
+}
